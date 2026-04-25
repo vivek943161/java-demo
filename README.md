@@ -1,4 +1,4 @@
-# 🚀 Maven Project Demo (Beginner Friendly)
+# 🚀 Maven Project Demo
 
 This guide will help you create, build, and run a simple Java application using **Maven**.
 
